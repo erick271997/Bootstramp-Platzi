@@ -1,4 +1,4 @@
-/* npm install bootstrap@5.2.2 */
+/* npm install bootstrap@5.2.2, link esta en html */
 
 import React from 'react';
 
